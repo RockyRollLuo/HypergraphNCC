@@ -1,0 +1,4 @@
+2020-11-16 09:10:44 [Thread:main][ Class:util.FileIOUtils >> Method: util.FileIOUtils.loadGraph(FileIOUtils.java:72) ]
+INFO:TakenTime:4.883E-4
+2020-11-16 09:10:44 [Thread:main][ Class:algorithm.DecompositionConstraintCore >> Method: algorithm.DecompositionConstraintCore.run(DecompositionConstraintCore.java:132) ]
+INFO:TakenTime:0.0033337

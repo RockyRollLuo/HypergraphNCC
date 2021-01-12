@@ -1,0 +1,4 @@
+2020-11-12 21:00:57 [Thread:main][ Class:util.FileIOUtils >> Method: util.FileIOUtils.loadGraph(FileIOUtils.java:71) ]
+INFO:TakenTime:7.876E-4
+2020-11-12 21:01:00 [Thread:main][ Class:algorithm.DecompositionDegree >> Method: algorithm.DecompositionDegree.run(DecompositionDegree.java:97) ]
+INFO:2.413E-4
